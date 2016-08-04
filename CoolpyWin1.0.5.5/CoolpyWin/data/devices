@@ -1,0 +1,3 @@
+{"k":"0000000078","o":"0000000298","v":"001"}
+{"_id":2,"_uid":2,"_dt":1422855304599,"_s":"e0b86cb37c8a5a68b4add6f8f0b622aa"}
+{"id":1,"ukey":"b4876754-a930-4c10-9d51-d524676b4d8f","title":"mySensor","about":"This is my Zigbee wireless network.","_id":{"$wrap":"$oid","v":2},"location":{"local":"广州市荔湾区","latitude":23.120581,"longitude":113.223137},"tags":["Zigbee","Temperature","Humidity","and so on."],"__v":0}
